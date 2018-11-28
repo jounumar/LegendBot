@@ -1,1 +1,2 @@
-# LegendBot
+# Procfile
+Zindawrs
